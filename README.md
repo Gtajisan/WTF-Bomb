@@ -8,13 +8,7 @@
 
 **Open Your `Termux` & Write This Commands In Your Terminal**
 ```
- apt update 
- apt upgrade
- apt install python
- apt install python2
- apt install git
- git clone https://github.com/Gtajisan/WTF-Bomb.git
- cd WTF-Bomb && python2 WTF-Bomb.py
+apt update $$ apt upgrade && apt install python && apt install python2 && apt install git && git clone https://github.com/Gtajisan/WTF-Bomb.git && cd WTF-Bomb && python2 WTF-Bomb.py
 ```
 **Done! Now Follow Tool Steps And Start Bombing!**
 
